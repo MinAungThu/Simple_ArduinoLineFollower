@@ -6,7 +6,7 @@ This is a Line Follower Robot that follows a black line using IR sensors and unl
 
 ---
 
-![Line Follower Robot](./assets/robot.png)
+![Line Follower Robot](./assets/Screen Shot 2025-03-23 at 18.41.57.png)
 
 ## Features
 
