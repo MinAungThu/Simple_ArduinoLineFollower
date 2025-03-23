@@ -57,25 +57,4 @@ This is a Line Follower Robot that follows a black line using IR sensors and unl
 | Ultrasonic Echo   | 6             |
 | Servo Motor       | 12            |
 
----
 
-## Usage
-
-1. Upload the code to your Arduino.
-2. Place the robot on the black line track.
-3. Put an object in the payload carrier.
-4. The robot will start following the line and unload the object automatically at specific conditions.
-
----
-
-## Future Improvements
-
-- Add obstacle avoidance.
-- Use PID control for smoother line following.
-- Enhance payload unloading mechanism.
-
----
-
-## License
-
-This project is open-source under the [MIT License](LICENSE).
