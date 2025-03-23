@@ -14,7 +14,7 @@ Payload Unloading: Uses a servo motor to unload the carried object when certain 
 
 Auto Start: The robot begins moving only when an object is detected.
 
-![Alt text]()
+![Alt text](assets/Screen Shot 2025-03-23 at 18.41.57.png)
 
 
 Hardware Components
